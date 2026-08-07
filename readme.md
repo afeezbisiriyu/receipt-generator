@@ -22,13 +22,6 @@ A Python based business automation tool that streamlines the billing process for
 - Python 3
 - Pillow (PIL) - for image generation
 
-### What I Learned Building This
-- How to use functions and break problems into logical steps
-- Dictionary storage and retrieval
-- For loops and while loops in real world context
-- How to use an external Python library (PIL)
-- How to think like a developer - plan first, code second
-
 ### System Architecture
 Data Collection     →    add_item()
 ↓
