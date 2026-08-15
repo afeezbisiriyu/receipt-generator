@@ -2,7 +2,7 @@
 A Python based business automation tool that streamlines the billing process for retail and food businesses. The system handles the full billing pipeline from product entry to professional receipt generation.
 
 ### Preview
-![Receipt Image Output](image/close-up-hand-holding-receipt.png)
+![Receipt Image Output](image/close-up-hand-holding-receipt.jpg)
 ### Fig 1: Receipt Image Output
 
 ### What This App Does
