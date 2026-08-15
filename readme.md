@@ -2,7 +2,7 @@
 A Python based business automation tool that streamlines the billing process for retail and food businesses. The system handles the full billing pipeline from product entry to professional receipt generation.
 
 ### Preview
-![Receipt Image Output](image/billing_receipt.png)
+![Receipt Image Output](image/close-up-hand-holding-receipt.png)
 ### Fig 1: Receipt Image Output
 
 ### What This App Does
@@ -42,7 +42,7 @@ Pipeline Controller →    print_receipt()
 
 ### How To Install And Run
 1. Clone the repository
-   git clone https://github.com/Bisiriyu001/receipt-generator.git
+   git clone https://github.com/afeezbisiriyu/receipt-generator.git
 
 2. Install the required library
    pip install Pillow
